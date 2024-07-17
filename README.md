@@ -47,7 +47,7 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern, ensuring a
 ## Technologies Used
 
 - **Kotlin**: Programming language used for Android development
-- **JXML**: For building UI
+- **XML**: For building UI
 - **ViewModel**: Manage UI-related data in a lifecycle-conscious way
 - **LiveData**: Data objects that notify views when the underlying data changes
 - **Room**: SQLite database with in-app data storage
